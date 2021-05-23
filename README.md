@@ -8,7 +8,7 @@
 - ☕ Configure config.json. 
 - ☕ Get your token on https://discord.com/developers/applications
 - ☕ Your id activates the developer mode in, advanced.
-- ☕T he prefix for your bot is free.
+- ☕ The prefix for your bot is free.
 
 ```
 {
@@ -19,4 +19,10 @@
 }
 ```
 
+## CREATE A FILE CALLED .REPLIT
 
+- ☕ Inside the .replit file, put:
+
+```
+run = "node ."
+```
