@@ -2,10 +2,21 @@
 
 ![](https://media.discordapp.net/attachments/844415422598348800/845920025797853224/12x.png)
 
-## I am a developer!!
+## FOR THE BOT TO WORK!!
 
-- 🔭 The hellsquad server: [K-ON!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play osu and play the guitar   
+- ☕ You need to have an account in replit, and pass all files to replit.
+- ☕ Configure config.json. 
+- ☕ Get your token on https://discord.com/developers/applications
+- ☕ Your id activates the developer mode in, advanced.
+- ☕T he prefix for your bot is free.
+
+```
+{
+    "token":"YOUR TOKEN",
+    "PREFIX": "PREFIX",
+    "owner":"ID",
+    "AME_API":"K-ON!"
+}
+```
+
+
